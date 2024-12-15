@@ -44,18 +44,22 @@ function printBanner() {
     global $green;
     $banner = "
 -------------------------------------------------
-    __  ______  ___    ______        __ 
-  /  |/  / _ \/ _ \  /_  __/__ ____/ / 
- / /|_/ / , _/ ___/   / / / -_) __/ _ \
-/_/  /_/_/|_/_/      /_/  \__/\__/_//_/           
+   ██╗  ██╗ █████╗ ██╗     ██╗  ██╗██╗
+██║ ██╔╝██╔══██╗██║     ██║ ██╔╝██║
+█████╔╝ ███████║██║     █████╔╝ ██║
+██╔═██╗ ██╔══██║██║     ██╔═██╗ ██║
+██║  ██╗██║  ██║███████╗██║  ██╗██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝
+                                      
+                                                                                         
 -------------------------------------------------
 
      - NOT PIXEL VIP SCRIPT -
      - 100% ANTI-BAN -
      
-- CREATE BY : MRP Tech
-- Telegram: @mrptechofficial
-- channel: https://t.me/mrptechofficial
+- CREATE BY : GOD_KALKI
+- Telegram: @KALKIVERSE
+- channel: https://t.me/KALKIVERSE
  
 - PX Points will be added to your account within 20 seconds.
 - So Wait Sometimes.
@@ -174,7 +178,7 @@ while (true) {
             } else {
                 echo printColored("[ ERROR ] Ads watching limit reached.\n", $red);
                 echo printColored("[ SOLUTION ] Try VPN or wait for 24 hours.\nUse Proton VPN install it from play store.\n", $green);
-                echo printColored("[ REPORT ] If facing issue again and again Send Details and ScreenShot Contact Developer Telegram @mosibur_paik\n", $yellow);
+                echo printColored("[ REPORT ] If facing issue again and again Send Details and ScreenShot Contact Developer Telegram @GOD_KALKI\n", $yellow);
                 continue;
             }
         } elseif ($httpCode === 403) {
