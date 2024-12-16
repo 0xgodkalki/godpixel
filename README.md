@@ -21,10 +21,6 @@ git clone https://github.com/0xgodkalki/godpixel.git
 ```
 cd godpixel
 ```
-# **CHANGE DIRECTORY TO SCRIPT FOLDER**
-```
-cd godpixel
-```
 # **PASTE REFER LINK INSIDE ```REFER```**
 ```
 php adduser.php
